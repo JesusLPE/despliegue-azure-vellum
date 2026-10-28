@@ -33,7 +33,7 @@
       <input
         type="search"
         class="field !h-11 !pl-11"
-        placeholder="Buscar series..."
+        placeholder="Busca tu proxima historia..."
         aria-label="Buscar series"
         bind:value={q}
       />
